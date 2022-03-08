@@ -1,6 +1,7 @@
 ## Welcome to SHAIMA ALJAHNI page
 
-You can use the [editor on GitHub](https://github.com/mesha4545a/mesha4545a.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Computer Science graduate with a first honour degree and training in data science by Saudi Digital Academy and experience as a Data Scientist  at Utatuzi Center (UC) and as Web Developer at Islamic University in Madinah
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
